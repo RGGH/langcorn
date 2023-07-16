@@ -1,1 +1,5 @@
 langcorn
+uvicorn
+langchain
+google-search-results
+chromadb
